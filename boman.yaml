@@ -4,5 +4,5 @@ Auth:
 # SAST:
 #   language: ruby
 SCA:
-  language: ruby
+  language: ruby-snyk-sca
 # Secret_Scan: true
